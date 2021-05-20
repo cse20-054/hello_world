@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-style: italic;
+    font-size: 15;
+  }
+  #banner{
+    background: url(rialto-bridge-venice.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  }
+.banner-text h1{ 
+  text-align: center;
+  color: rgb(117, 230, 198);
+  
+  font-style: italic;
+  font-size: 70px;
+}
+.banner-text { 
+  text-align: center;
+  color: rgb(117, 230, 198);
+  padding-top: 180px;
+  font-style: italic;
+  font-size: 50px;
+}
+
+p{font-size: 20px;}
+.nav a{
+ color: aquamarine;
+  font-size: 30px;
+  background: none;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(243, 113, 174);
+  color: rgb(24, 23, 23);
+  text-align: center;
+  font-style: italic;
+  font-size: 20px;
+}
+
+
+
+
+ /*ABOUT*/
+  h1{text-align: center; font-size: 35px;}
+.about.text {
+    text-align: center;
+    font-style: italic;
+    font-size: 50px;
+}
+ .menu {
+  color: black;
+  background: rgb(248, 173, 209);
+  font-style: italic;
+  font-size: 25px;
+  text-align: center;
+  height: 50px;
+ }
+ .menu a{
+    color:black;
+    font-style: italic;
+  font-size: 25px;
+ }
+
+ 
+
+
+/*STYLING FORMS*/
+ 
+.form{
+    text-align: center;
+    font-size: 20px;
+  }
+  .submit{
+    text-align: center;
+    font-style: italic;
+    font-size: 45px;
+  }
+
+     
+ 
+
